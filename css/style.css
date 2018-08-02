@@ -34,3 +34,9 @@ figcaption {
   color: white;
   text-shadow: 0 2px 3px #000;
 }
+
+/* ID selector: Can only be applied to one unique element per page */
+
+#logo { /*select element with the id="logo" */
+  background: : aqua;
+}
