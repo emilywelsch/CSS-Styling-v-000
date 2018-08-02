@@ -47,3 +47,5 @@ figcaption {
 #logo h2 { /*select <h1> if inside id="logo" element */
   font-family: 'Kirang Haerang', cursive;
 }
+
+/* Pseudo Selector */
