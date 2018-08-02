@@ -9,5 +9,6 @@ selector {
 
 p {
   /* This is going to select all <p> elements */
-  font-size: 16px; /* 16px, ?pt, 100%, or 1em */
+  font-size: 1em; /* 16px, ?pt, 100%, or 1em */
+  line-height: 1.5em
 }
