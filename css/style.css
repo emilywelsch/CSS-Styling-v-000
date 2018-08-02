@@ -40,3 +40,10 @@ figcaption {
 #logo { /*select element with the id="logo" */
   background: : aqua;
 }
+
+#logo h1 { /*select <h1> if inside id="logo" element */
+  font-family: 'Playfair Display', serif;
+}
+#logo h2 { /*select <h1> if inside id="logo" element */
+  font-family: 'Kirang Haerang', cursive;
+}
