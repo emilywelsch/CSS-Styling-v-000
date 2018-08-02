@@ -10,5 +10,12 @@ selector {
 p {
   /* This is going to select all <p> elements */
   font-size: 1em; /* 16px, ?pt, 100%, or 1em */
+  line-height: 1.5em;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
   line-height: 1.5em
+  font-family: Georgia, "New Times Roman", serif
 }
