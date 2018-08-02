@@ -26,3 +26,11 @@ figcaption {
   color: rgba(137,112,81,1);
   text-align: right;
 }
+
+/* Class selector */
+
+.milk-text {/* select elements with class=milk-text*/
+  font: bold 2.6em 'Playfair Display', serif;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
